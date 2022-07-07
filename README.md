@@ -19,4 +19,4 @@ npm run build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-sourcetree 本地制造冲突
+sourcetree 本地仓库制造冲突
